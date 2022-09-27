@@ -1,0 +1,9 @@
+/*************/
+/*universal selectors */
+
+:root{
+ /* color theme */
+ --primary: #455877;
+ --secondary: #92ccce;
+ --terciary: #31343c;
+}
